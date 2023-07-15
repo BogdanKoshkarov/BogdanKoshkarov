@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Microsoft SQL ServerЕ-rad?style=for-the-badge&logo=microsoftsqlserver&logoColor=ЦВЕТ ЛОГОТИПА"/>
+
+
 
 <!--
 **BogdanKoshkarov/BogdanKoshkarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
