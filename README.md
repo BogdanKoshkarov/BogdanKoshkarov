@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Microsoft SQL ServerЕ-rad?style=for-the-badge&logo=microsoftsqlserver&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/MicrosoftSQLServerЕ-#CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
 
 
