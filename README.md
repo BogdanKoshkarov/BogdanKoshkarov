@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am a QA engineer. I am still a junior, but I spend a lot of time on my education and constantly improve my skills. I have experience in database testing, UI / UX testing, functional testing, smoke testing, regression testing, security testing, writing test documentation.
+Hello, I am a QA engineer. I spend a lot of time on my education and constantly improve my skills. I have experience in database testing, UI / UX testing, functional testing, smoke testing, regression testing, security testing, writing test documentation.
 
 I have excellent team communication skills. I am a fast learner and can easily dive into new technologies and projects.
 
